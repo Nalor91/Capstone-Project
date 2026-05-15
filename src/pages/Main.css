@@ -1,0 +1,25 @@
+.main-page {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-image {
+  width: 25;
+  margin-left: auto;
+  margin-right: auto;
+  height: 20rem;
+  object-fit: cover;
+}
+
+.main-header {
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.main-content {
+  width: 25rem;
+  max-width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}

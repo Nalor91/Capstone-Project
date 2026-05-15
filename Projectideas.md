@@ -1,0 +1,7 @@
+3 Capstone Project Ideas.
+
+1. Friendr - My first idea is to make essentially a dating app but specifically meant for finding/making friends and not a romantic endeavor. The idea that would be most worked on would be compiling data of new users, login routes, adding/editing profiles, adding pictures/interests. This would require creating my own API primarily but would allow me to play with APIs and creating a look a like for the application. Would need to design a system for matching people up and common interests.
+
+2. Board Game Rental Website - Create a website/app designed to work like any rental site such as old school netflix. Would need to design a UI that was more of a marketplace/browsing page. Would need to make my own API for funcionality for the website, and an external API for getting data. utilize board games that are available. Would allow people to "rent" board games for a week at a time for a fee. Would need to create a profile, login routes.
+
+3. Podcast website - Create a website with Podcasts that would allow users to navigate through the site to view videos/audio that people would want. Would have a marketplace page where fans/subscribers would be allowed to buy merchandise. Would have info tabs and history. Would allow people to "subscribe" to the website to be notified of updates on new videos/audio similar to Youtube. Would need external API for getting data. 
