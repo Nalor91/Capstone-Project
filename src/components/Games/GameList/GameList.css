@@ -1,0 +1,16 @@
+
+.game-list {
+  list-style: none;
+  background: #2b437c;
+  border-radius: 12px;
+  padding: 1rem;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: 1px solid #2a3140;
+}

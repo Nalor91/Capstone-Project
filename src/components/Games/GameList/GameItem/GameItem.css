@@ -1,0 +1,41 @@
+.game-item {
+  background: #1a1f2b;
+  border-radius: 14px;
+  padding: 1rem;
+
+  color: #e5e7eb;
+
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+  border: 1px solid #2a3140;
+
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.game-item:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.6);
+}
+.game-item h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #5101d1;
+}
+
+.game-item h2 {
+    margin: 0;
+    font-size: 1rem;
+    color: #7c7c7c;
+}
+
+.game-item p {
+    margin: 0;
+}
+
+.thumbnail img {
+    display: center;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    object-fit: cover;
+    border: none;
+}
